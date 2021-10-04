@@ -1,1 +1,4 @@
+inherit_from: https://raw.githubusercontent.com/Provi-Engineering/shared-rubocop-config/main/base.yml
 
+AllCops:
+  TargetRubyVersion: 2.6.6
