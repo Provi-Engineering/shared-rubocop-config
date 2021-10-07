@@ -166,8 +166,8 @@ Layout/FirstHashElementIndentation:
 
 Layout/HashAlignment:
   Enabled: true
-  EnforcedHashRocketStyle: key
-  EnforcedColonStyle: key
+  EnforcedHashRocketStyle: table
+  EnforcedColonStyle: table
   EnforcedLastArgumentHashStyle: always_inspect
 
 Layout/HeredocIndentation:
@@ -1113,12 +1113,12 @@ Style/StringChars:
 
 Style/StringLiterals:
   Enabled: true
-  EnforcedStyle: double_quotes
+  EnforcedStyle: single_quotes
   ConsistentQuotesInMultiline: false
 
 Style/StringLiteralsInInterpolation:
   Enabled: true
-  EnforcedStyle: double_quotes
+  EnforcedStyle: single_quotes
 
 Style/Strip:
   Enabled: true
