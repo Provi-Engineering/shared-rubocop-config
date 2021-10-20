@@ -787,6 +787,9 @@ Style/BlockComments:
 Style/CharacterLiteral:
   Enabled: true
 
+Style/ClassAndModuleChildren:
+  Enabled: false
+
 Style/ClassCheck:
   Enabled: true
   EnforcedStyle: is_a?
