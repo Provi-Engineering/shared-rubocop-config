@@ -30,6 +30,9 @@ Gemspec/DuplicatedAssignment:
   Include:
     - '**/*.gemspec'
 
+Bundler/OrderedGems:
+  Enabled: true
+
 Layout/AccessModifierIndentation:
   Enabled: true
   EnforcedStyle: indent
