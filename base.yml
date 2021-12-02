@@ -103,7 +103,7 @@ Layout/EmptyLineAfterMagicComment:
 
 Layout/EmptyLineBetweenDefs:
   Enabled: true
-  AllowAdjacentOneLineDefs: false
+  AllowAdjacentOneLineDefs: true
   NumberOfEmptyLines: 1
 
 Layout/EmptyLines:
