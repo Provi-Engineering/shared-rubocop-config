@@ -589,6 +589,8 @@ Lint/TripleQuotes:
 
 Lint/UnderscorePrefixedVariableName:
   Enabled: true
+  Exclude:
+    - Gemfile
 
 Lint/UnifiedInteger:
   Enabled: true
