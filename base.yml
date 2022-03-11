@@ -1,5 +1,8 @@
 require:
+  - rubocop-rails
+  - rubocop-rspec
   - rubocop-performance
+  - rubocop-sequel
 
 AllCops:
   # Prevent RuboCop from exploding when it finds an older-than-2.4 .ruby-version
