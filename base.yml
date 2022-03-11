@@ -6,7 +6,6 @@ require:
 
 AllCops:
   # Prevent RuboCop from exploding when it finds an older-than-2.4 .ruby-version
-  TargetRubyVersion: 2.5
   DisabledByDefault: true
   NewCops: disable
   Exclude: []
