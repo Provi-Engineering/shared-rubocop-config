@@ -1,7 +1,6 @@
 require:
   - rubocop-rails
   - rubocop-rspec
-  - rubocop-performance
   - rubocop-sequel
 
 AllCops:
