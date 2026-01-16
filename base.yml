@@ -23,7 +23,7 @@ Bundler/InsecureProtocolSource:
     - '**/Gemfile'
     - '**/gems.rb'
 
-Gemspec/DateAssignment:
+Gemspec/DeprecatedAttributeAssignment:
   Enabled: true
 
 Gemspec/DuplicatedAssignment:
